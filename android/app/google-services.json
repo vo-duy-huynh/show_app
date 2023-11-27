@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641716184550",
+    "project_id": "shoppro-fcfc8",
+    "storage_bucket": "shoppro-fcfc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641716184550:android:9ff33d607c4335c06da227",
+        "android_client_info": {
+          "package_name": "com.huynhpro.shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmjfNpUvdgha71hf-ZgazLge36jDFBZyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
